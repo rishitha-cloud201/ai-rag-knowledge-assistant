@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Test and tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Application data
+data/chroma/
+data/uploads/
+
+# IDE files
+.vscode/
+.idea/
+.vs/
+
+# Operating system files
+.DS_Store
+Thumbs.db

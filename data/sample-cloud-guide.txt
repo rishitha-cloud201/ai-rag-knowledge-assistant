@@ -1,0 +1,7 @@
+Amazon EKS is a managed Kubernetes service provided by AWS. It allows teams to run Kubernetes workloads without managing the Kubernetes control plane directly.
+
+Terraform is commonly used to provision AWS networking, IAM roles, EKS clusters, node groups, and supporting cloud infrastructure.
+
+Prometheus collects operational metrics from applications and infrastructure. Grafana is used to visualize those metrics through dashboards.
+
+Argo CD supports GitOps-based deployments by continuously synchronizing Kubernetes resources with declarative configuration stored in Git repositories.
